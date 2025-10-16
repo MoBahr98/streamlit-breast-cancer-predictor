@@ -1,0 +1,27 @@
+
+.block-container {
+    height: 100vh;
+    padding: 1rem 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.diagnosis {
+    color: #fff;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.bright-red {
+    background-color: rgb(255, 75, 75);
+}
+.bright-green {
+    background-color: #01DB4B;
+    color: #000;
+}
+
+.stColumns, .stColumn { height: 100%; }
+#prediction-col { display: flex; flex-direction: column; justify-content: center; }
+
