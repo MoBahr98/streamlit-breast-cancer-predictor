@@ -32,7 +32,7 @@ Trained on the [UCI Breast Cancer Wisconsin Dataset](https://www.kaggle.com/data
 ## To install & run locally:
 ```bash
 git clone https://github.com/MoBahr98/streamlit-breast-cancer-predictor.git
-cd breast-cancer-predictor
+cd streamlit-breast-cancer-predictor
 pip install -r requirements.txt
 streamlit run app/main.py
 ```
